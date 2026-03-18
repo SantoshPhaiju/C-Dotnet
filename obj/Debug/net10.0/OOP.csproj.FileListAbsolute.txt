@@ -1,0 +1,14 @@
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/bin/Debug/net10.0/OOP
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/bin/Debug/net10.0/OOP.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/bin/Debug/net10.0/OOP.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/bin/Debug/net10.0/OOP.dll
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/bin/Debug/net10.0/OOP.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.dll
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/refint/OOP.dll
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/ref/OOP.dll

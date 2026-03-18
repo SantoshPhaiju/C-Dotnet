@@ -12,3 +12,4 @@
 /Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.pdb
 /Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.genruntimeconfig.cache
 /Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/ref/OOP.dll
+/Users/santoshphaiju/Coding/dotnetcollege/OOP/obj/Debug/net10.0/OOP.sourcelink.json

@@ -4,6 +4,17 @@ namespace OOP.Calculator;
 
 public class MyCalculator
 {
+
+    public MyCalculator()
+    {
+        System.Console.WriteLine("Welcome to My Calculator");
+    }
+
+    public MyCalculator(string message)
+    {
+        System.Console.WriteLine(message);
+    }
+
     public int Add(int a, int b)
     {
         return a + b;

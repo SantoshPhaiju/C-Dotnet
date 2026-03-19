@@ -1,5 +1,8 @@
 ﻿using OOP.Calculator;
 
+
+
+
 namespace OOP
 {
     internal class Program
@@ -10,6 +13,7 @@ namespace OOP
             // obj.Info();
             // System.Console.WriteLine(obj.GetName());
             MyCalculator calculator = new MyCalculator();
+            MyCalculator calculator2 = new MyCalculator("Custom welcome message");
             Console.WriteLine("========== WELCOME TO MY CALCULATOR CONSOLE APP ===========");
 
             while (true)

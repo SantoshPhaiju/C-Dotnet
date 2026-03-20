@@ -1,8 +1,5 @@
 ﻿using OOP.Calculator;
 
-
-
-
 namespace OOP
 {
     internal class Program
